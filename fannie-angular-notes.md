@@ -30,6 +30,11 @@
 
 [Mini.css](https://minicss.org/)
 
+[Dynamic Forms](https://angular.io/guide/dynamic-form)
+
+[TypeScript Getters/Setters (scroll down to accessors)](https://www.typescriptlang.org/docs/handbook/classes.html)
+
+
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
 https://angular.io/resources#ui-components
