@@ -29,3 +29,13 @@
 [7 million requests per second](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
 
 [Mini.css](https://minicss.org/)
+
+## UI Frameworks
+In general, this page on the Angular documentation lists all the options.
+https://angular.io/resources#ui-components
+
+In my opinion the 4 Best UI Component Suites for Angular are:
+- Material: https://material.angular.io/ (open source/free)
+- Clarity: https://vmware.github.io/clarity/ (open source/free)
+- Kendo: https://www.telerik.com/kendo-angular-ui (open source/paid)
+- Bootstrap: https://ng-bootstrap.github.io/#/home (open source/free)
