@@ -2,6 +2,8 @@
 
 [Npm Config: save-prefix](https://docs.npmjs.com/misc/config#save-prefix)
 
+[npm Global packages don't use package.json](https://github.com/npm/npm/issues/2949)
+
 [Node Release Schedule](https://github.com/nodejs/Release#release-schedule)
 
 [Constructor Overload in TypeScript](https://stackoverflow.com/questions/12702548/constructor-overload-in-typescript)
