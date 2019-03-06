@@ -34,6 +34,8 @@
 
 [TypeScript Getters/Setters (scroll down to accessors)](https://www.typescriptlang.org/docs/handbook/classes.html)
 
+[Angular Language Service](https://github.com/angular/vscode-ng-language-service/issues/311)
+
 
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
