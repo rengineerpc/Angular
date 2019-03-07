@@ -36,6 +36,8 @@
 
 [Angular Language Service](https://github.com/angular/vscode-ng-language-service/issues/311)
 
+[Where to Store Angular Configurations](https://davembush.github.io/where-to-store-angular-configurations/)
+
 
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
