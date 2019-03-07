@@ -44,6 +44,8 @@ https://rxjs.dev/api/index
 
 [Observing Object Changes](https://stackoverflow.com/questions/36001392/rxjs-ofobjectchanges-obsolete)
 
+[DI: Hierarchical Providers](https://angular.io/guide/providers)
+
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
 https://angular.io/resources#ui-components
