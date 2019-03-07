@@ -40,6 +40,7 @@
 
 [RxJS Documentation](https://rxjs.dev/)
 
+https://rxjs.dev/api/index
 
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
