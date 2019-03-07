@@ -1,5 +1,7 @@
 [Evaluations](http://my.accelebrate.com/evaluations/)
 
+[VS Code Settings](https://gist.github.com/craigmckeachie/38658036406aace055e94ba6ffc2cdb8)
+
 [Npm Config: save-prefix](https://docs.npmjs.com/misc/config#save-prefix)
 
 [npm Global packages don't use package.json](https://github.com/npm/npm/issues/2949)
