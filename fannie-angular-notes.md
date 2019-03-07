@@ -48,6 +48,12 @@ https://rxjs.dev/api/index
 
 [DI: Hierarchical Providers](https://angular.io/guide/providers)
 
+Code Coverage
+Redux
+Http Interceptor
+Demo Manual
+
+
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
 https://angular.io/resources#ui-components
