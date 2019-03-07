@@ -49,6 +49,7 @@ https://rxjs.dev/api/index
 [DI: Hierarchical Providers](https://angular.io/guide/providers)
 
 Code Coverage: `ng test --codeCoverage=true`
+https://angular.io/cli/test
 
 
 Redux
