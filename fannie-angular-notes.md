@@ -38,6 +38,8 @@
 
 [Where to Store Angular Configurations](https://davembush.github.io/where-to-store-angular-configurations/)
 
+[RxJS Documentation](https://rxjs.dev/)
+
 
 ## UI Frameworks
 In general, this page on the Angular documentation lists all the options.
