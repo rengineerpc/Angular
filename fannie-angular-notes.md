@@ -48,7 +48,9 @@ https://rxjs.dev/api/index
 
 [DI: Hierarchical Providers](https://angular.io/guide/providers)
 
-Code Coverage
+Code Coverage: `ng test --codeCoverage=true`
+
+
 Redux
 Http Interceptor
 Demo Manual
