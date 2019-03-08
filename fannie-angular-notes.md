@@ -122,8 +122,6 @@ Authentication
 
 [Library to Help with Angular Authentication](https://www.npmjs.com/package/@auth0/angular-jwt)
 
-Demo Manual
-
 # Angular Resources
 [Angular Documentation](https://angular.io/docs)
 
