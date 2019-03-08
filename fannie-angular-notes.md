@@ -1,6 +1,8 @@
 
 [Evaluations](http://my.accelebrate.com/evaluations/)
 
+[Demo Manual](https://lib.accelebrate.com/201903_FannieMae/AngularDemosManual.pdf)
+
 Setup
 
 [VS Code Settings](https://gist.github.com/craigmckeachie/38658036406aace055e94ba6ffc2cdb8)
