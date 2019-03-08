@@ -94,8 +94,6 @@ https://angular.io/cli/test
 
 Redux (NgRx)
 
-[GraphQL](https://graphql.org/)
-
 [Free Redux Video Course](https://egghead.io/courses/getting-started-with-redux)
 
 [Free Video Course on Redux by Creator](https://egghead.io/courses/getting-started-with-redux)
@@ -107,6 +105,9 @@ Redux (NgRx)
 [Pluralsight: NgRx Getting Started](https://www.pluralsight.com/courses/angular-ngrx-getting-started)
 [Pluralsight: NgRx Play by Play](https://www.pluralsight.com/courses/play-by-play-angular-ngrx)
 [Ultimate Angular: NgRx Store & Effects](https://ultimatecourses.com/angular/ngrx-store-effects)
+
+[GraphQL](https://graphql.org/)
+[How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 
 Testing
 
