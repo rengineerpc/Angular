@@ -81,6 +81,8 @@ Day 4
 
 Day 5
 
+[Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+
 [TDD By Example: Book by Kent Beck](https://www.barnesandnoble.com/w/test-driven-development-kent-beck/1126651459?ean=9780321146533&pcta=n&st=PLA&sid=BNB_New+Core+Shopping+Textbooks&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7CcbEJ1yxlw4LB64OrwGWKRLW3Tsc4czD5VOXcpaWObayRKy3fk1pGIaAqEoEALw_wcB)
 
 [Angular Testing Guide](https://angular.io/guide/testing)
@@ -97,9 +99,6 @@ https://angular.io/cli/test
 [Free Video Course on Redux by Creator](https://egghead.io/courses/getting-started-with-redux)
 
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-
-[Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-
 
 
 Demo Manual
