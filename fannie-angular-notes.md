@@ -98,6 +98,8 @@ https://angular.io/cli/test
 
 [Free Video Course on Redux by Creator](https://egghead.io/courses/getting-started-with-redux)
 
+[Future: Less State Management](https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308)
+
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 [Unit Tests vs E2E Tests](http://audio.angularair.com/e/59-ngair-angular-2-testing-using-protractor-2c-karma-and-more-with-julie-ralph/)
