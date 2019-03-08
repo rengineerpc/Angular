@@ -56,6 +56,8 @@ https://rxjs.dev/api/index
 
 Day 4
 
+[Http Interceptors](https://angular.io/guide/http#intercepting-requests-and-responses)
+
 [DI: Hierarchical Providers](https://angular.io/guide/providers)
 
 [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
@@ -89,9 +91,6 @@ https://angular.io/cli/test
 
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
-
-
-Http Interceptor
 Demo Manual
 Julie Ralf
 
