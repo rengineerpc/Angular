@@ -92,6 +92,8 @@ https://angular.io/cli/test
 
 [Jasmine It Snippet](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets)
 
+Redux (NgRx)
+
 [GraphQL](https://graphql.org/)
 
 [Free Redux Video Course](https://egghead.io/courses/getting-started-with-redux)
@@ -102,8 +104,16 @@ https://angular.io/cli/test
 
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
+[Pluralsight: NgRx Getting Started](https://www.pluralsight.com/courses/angular-ngrx-getting-started)
+[Pluralsight: NgRx Play by Play](https://www.pluralsight.com/courses/play-by-play-angular-ngrx)
+[Ultimate Angular: NgRx Store & Effects](https://ultimatecourses.com/angular/ngrx-store-effects)
+
+Testing
+
 [Unit Tests vs E2E Tests](http://audio.angularair.com/e/59-ngair-angular-2-testing-using-protractor-2c-karma-and-more-with-julie-ralph/)
 Scroll to bottom go to 21:50. 
+
+Authentication
 
 [Angular Authentication](https://medium.com/@blacksonic86/angular-2-authentication-revisited-611bf7373bf9)
 
