@@ -103,6 +103,10 @@ https://angular.io/cli/test
 [Unit Tests vs E2E Tests](http://audio.angularair.com/e/59-ngair-angular-2-testing-using-protractor-2c-karma-and-more-with-julie-ralph/)
 Scroll to bottom go to 21:50. 
 
+[Angular Authentication](https://medium.com/@blacksonic86/angular-2-authentication-revisited-611bf7373bf9)
+
+[Library to Help with Angular Authentication](https://www.npmjs.com/package/@auth0/angular-jwt)
+
 Demo Manual
 
 # Angular Resources
