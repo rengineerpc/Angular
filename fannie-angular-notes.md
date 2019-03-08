@@ -1,6 +1,11 @@
+
 [Evaluations](http://my.accelebrate.com/evaluations/)
 
+Setup
+
 [VS Code Settings](https://gist.github.com/craigmckeachie/38658036406aace055e94ba6ffc2cdb8)
+
+Day 1
 
 [Npm Config: save-prefix](https://docs.npmjs.com/misc/config#save-prefix)
 
@@ -29,6 +34,8 @@
 [TypeScript Deep Dive Book Online (free)](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
 Day 2
+
+[Emmet](https://docs.emmet.io/cheat-sheet/)
 
 [7 million requests per second](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
 
@@ -90,6 +97,10 @@ https://angular.io/cli/test
 [Free Video Course on Redux by Creator](https://egghead.io/courses/getting-started-with-redux)
 
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+
+[Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+
+
 
 Demo Manual
 Julie Ralf
