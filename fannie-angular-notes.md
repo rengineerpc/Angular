@@ -100,9 +100,10 @@ https://angular.io/cli/test
 
 [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
+[Unit Tests vs E2E Tests](http://audio.angularair.com/e/59-ngair-angular-2-testing-using-protractor-2c-karma-and-more-with-julie-ralph/)
+Scroll to bottom go to 21:50. 
 
 Demo Manual
-Julie Ralf
 
 # Angular Resources
 [Angular Documentation](https://angular.io/docs)
